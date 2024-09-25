@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2238-a-number-after-a-double-reversal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Geometry
 |  |
