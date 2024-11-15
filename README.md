@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0260-single-number-iii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
