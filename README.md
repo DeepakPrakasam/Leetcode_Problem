@@ -96,15 +96,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0233-number-of-digit-one](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0233-number-of-digit-one) |
 ## Divide and Conquer
 |  |
