@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 ## Brainteaser
 |  |
