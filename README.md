@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0292-nim-game) |
+| [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
+| [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
 ## Recursion
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
