@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0233-number-of-digit-one](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0233-number-of-digit-one) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0403-frog-jump) |
 ## Recursion
 |  |
 | ------- |
