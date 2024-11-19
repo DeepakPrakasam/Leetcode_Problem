@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0185-department-top-three-salaries) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
