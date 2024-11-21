@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
+| [2752-sum-multiples](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2752-sum-multiples) |
 ## Geometry
 |  |
 | ------- |
