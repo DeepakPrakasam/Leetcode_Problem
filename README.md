@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
