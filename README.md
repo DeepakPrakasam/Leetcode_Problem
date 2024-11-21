@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0292-nim-game) |
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
