@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
 ## Two Pointers
 |  |
 | ------- |
