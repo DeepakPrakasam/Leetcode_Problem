@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
