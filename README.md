@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
+| [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
+| [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
+| [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
 ## Database
 |  |
 | ------- |
