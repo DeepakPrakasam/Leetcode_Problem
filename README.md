@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
+| [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
+| [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+| [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
