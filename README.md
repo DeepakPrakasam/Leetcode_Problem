@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 ## Trie
 |  |
