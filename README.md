@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
+| [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
 | [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+| [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 ## Counting Sort
 |  |
