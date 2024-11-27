@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0292-nim-game) |
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
