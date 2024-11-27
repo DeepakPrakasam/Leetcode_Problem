@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
+| [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
+| [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+## Design
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
