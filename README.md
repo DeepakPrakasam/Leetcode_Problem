@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
+| [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2650-split-with-minimum-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2650-split-with-minimum-sum) |
+| [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2752-sum-multiples) |
 ## Geometry
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
+| [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+| [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 ## Counting Sort
 |  |
 | ------- |
