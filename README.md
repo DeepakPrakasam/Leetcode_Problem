@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 ## Greedy
