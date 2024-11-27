@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0577-employee-bonus) |
 ## Matrix
