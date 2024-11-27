@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0132-palindrome-partitioning-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0227-basic-calculator-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0273-integer-to-english-words) |
