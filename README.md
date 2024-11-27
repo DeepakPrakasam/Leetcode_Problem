@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+| [1372-check-if-it-is-a-good-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
 | [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
+| [1372-check-if-it-is-a-good-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
+| [1372-check-if-it-is-a-good-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
 ## Greedy
