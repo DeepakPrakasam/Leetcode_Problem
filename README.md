@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+| [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1448-maximum-69-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2083-three-divisors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2238-a-number-after-a-double-reversal) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0292-nim-game) |
+| [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Recursion
 |  |
