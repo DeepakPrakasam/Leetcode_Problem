@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
 ## Linked List
