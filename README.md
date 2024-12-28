@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0132-palindrome-partitioning-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0227-basic-calculator-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 | [0336-palindrome-pairs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0336-palindrome-pairs) |
