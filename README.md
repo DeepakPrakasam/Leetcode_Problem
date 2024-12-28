@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
 | [1372-check-if-it-is-a-good-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1372-check-if-it-is-a-good-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
