@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
