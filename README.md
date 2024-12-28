@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0238-product-of-array-except-self) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0443-string-compression) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
