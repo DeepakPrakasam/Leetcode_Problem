@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1372-check-if-it-is-a-good-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1372-check-if-it-is-a-good-array) |
 | [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
