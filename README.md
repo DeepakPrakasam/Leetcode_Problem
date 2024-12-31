@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0474-ones-and-zeroes) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
+| [0474-ones-and-zeroes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0474-ones-and-zeroes) |
 | [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1522-stone-game-iii) |
