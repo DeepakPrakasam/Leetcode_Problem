@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0292-nim-game) |
 | [0458-poor-pigs](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0458-poor-pigs) |
+| [0504-base-7](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
 | [0956-number-of-music-playlists](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0956-number-of-music-playlists) |
