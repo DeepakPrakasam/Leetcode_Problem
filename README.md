@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0389-find-the-difference) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Indexed Tree
 |  |
 | ------- |
