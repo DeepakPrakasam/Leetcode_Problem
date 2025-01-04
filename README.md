@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Indexed Tree
 |  |
@@ -418,5 +420,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
