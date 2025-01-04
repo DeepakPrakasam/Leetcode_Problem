@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0941-sort-array-by-parity) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
+| [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
@@ -421,9 +423,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
