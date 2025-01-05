@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
