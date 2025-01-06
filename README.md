@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
