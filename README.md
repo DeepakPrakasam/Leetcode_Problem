@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0041-first-missing-positive) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
