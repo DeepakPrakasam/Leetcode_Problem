@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2681-put-marbles-in-bags](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2681-put-marbles-in-bags) |
 | [2722-prime-in-diagonal](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2722-prime-in-diagonal) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2226-rings-and-rods) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2226-rings-and-rods) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design
