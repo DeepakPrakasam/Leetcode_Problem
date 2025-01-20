@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
+| [1078-remove-outermost-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0474-ones-and-zeroes) |
 | [0935-orderly-queue](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0935-orderly-queue) |
+| [1078-remove-outermost-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
