@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0931-maximum-frequency-stack) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2226-rings-and-rods) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2226-rings-and-rods) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/3242-count-elements-with-maximum-frequency) |
