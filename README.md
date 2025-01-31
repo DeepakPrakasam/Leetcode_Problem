@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0204-count-primes) |
+| [0221-maximal-square](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0268-missing-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0132-palindrome-partitioning-ii) |
+| [0221-maximal-square](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0233-number-of-digit-one) |
 | [0354-russian-doll-envelopes](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0403-frog-jump) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
 | [2089-maximum-matrix-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/2089-maximum-matrix-sum) |
