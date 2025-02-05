@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1036-rotting-oranges) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -474,4 +476,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
