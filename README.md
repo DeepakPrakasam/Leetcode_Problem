@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0078-subsets) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0068-text-justification) |
 | [0132-palindrome-partitioning-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0227-basic-calculator-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/DeepakPrakasam/Leetcode_Problem/tree/master/0068-text-justification) |
 ## Graph
 |  |
 | ------- |
