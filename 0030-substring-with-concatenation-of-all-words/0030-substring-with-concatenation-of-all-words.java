@@ -14,13 +14,11 @@ class Solution {
             return result;
         }
 
-        // Create a map to store the count of each word
         Map<String, Integer> wordCount = new HashMap<>();
         for (String word : words) {
             wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
         }
 
-        // Sliding window approach with optimization
         for (int i = 0; i < wordLength; i++) {
             int left = i;
             int count = 0;
